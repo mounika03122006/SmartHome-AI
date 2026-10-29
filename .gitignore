@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints/
+models/*.joblib
+history.db
+data/processed/*.csv
+admin_credentials.json
+data/raw/*.csv
